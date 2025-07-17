@@ -1,5 +1,5 @@
 # User-Driven Adaptive CSI Feedback With Ordered Vector Quantization
-[![wandb badge](https://github.com/wandb/assets/blob/main/wandb-github-badge.svg)](https://wandb.ai/valer/rlhf/reports/Reinforcement-Learning-from-Human-Feedback-RLHF---VmlldzoxMjIwMTA2MA)
+[![wandb badge](https://github.com/wandb/assets/blob/main/wandb-github-badge.svg)](https://wandb.ai/valer/csi-feedback-ovq-fine-tune/reports/Adaptive-Channel-Compression-with-Ordered-Vector-Quantization-OVQ---VmlldzoxMzYxMDg2Nw)
 
 🚀 Welcome to the repository of the paper "User-Driven Adaptive CSI Feedback With Ordered Vector Quantization"!  This repository contains the code and resources needed to reproduce the key results from our study. For full details, please refer to the [paper](https://ieeexplore.ieee.org/document/10208156).
 
@@ -66,7 +66,7 @@ python3 main_cost.py -d out -m transnet -r 2 -b 10 -e 8 -ft
 - The `checkpoints` folder contains the "best_model" checkpoints for both the pretraining and fine-tuning phases.
 - The `tables` folder contains `.csv` files that can be used directly for your plots.
 
-✨ You can explore the final results and interactive tables on [Weights & Biases](wandb-link).
+✨ You can explore the final results and interactive tables on [Weights & Biases](https://wandb.ai/valer/csi-feedback-ovq-fine-tune/reports/Adaptive-Channel-Compression-with-Ordered-Vector-Quantization-OVQ---VmlldzoxMzYxMDg2Nw).
 
 ## Citation
 📚 If you find our work helpful in your research, we’d be happy if you cite us!
