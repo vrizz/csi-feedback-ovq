@@ -1,7 +1,7 @@
 # User-Driven Adaptive CSI Feedback With Ordered Vector Quantization
 [![wandb badge](https://github.com/wandb/assets/blob/main/wandb-github-badge.svg)](https://wandb.ai/valer/csi-feedback-ovq-fine-tune/reports/Adaptive-Channel-Compression-with-Ordered-Vector-Quantization-OVQ---VmlldzoxMzYxMDg2Nw)
 
-🚀 Welcome to the repository of the paper "User-Driven Adaptive CSI Feedback With Ordered Vector Quantization"!  This repository contains the code and resources needed to reproduce the key results from our study. For full details, please refer to the [paper](https://ieeexplore.ieee.org/document/10208156).
+🚀 Welcome to the repository for the paper "User-Driven Adaptive CSI Feedback With Ordered Vector Quantization"!  This repository contains the code and resources needed to reproduce the key results from our study. For full details, please refer to the [paper](https://ieeexplore.ieee.org/document/10208156).
 
 ## Table of Contents
 
