@@ -7,8 +7,8 @@
 
 - [Dataset Preparation](#dataset-preparation)
 - [Usage](#usage)
-- [Citation](#citation)
 - [Results](#results)
+- [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
 
 ## Dataset Preparation
