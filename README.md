@@ -17,7 +17,7 @@ This project uses the **COST2100 "outdoor"** dataset for training and evaluation
 To download and prepare the dataset, run the following commands after cloning the repository:
 
 ```
-curl -L -o COST2100_dataset.zip https://www.dropbox.com/scl/fo/tqhriijik2p76j7kfp9jl/h?rlkey=4r1zvjpv4lh5h4fpt7lbpus8c&e=2&st=pmf7duk6&dl=1
+curl -L -o COST2100_dataset.zip "https://www.dropbox.com/scl/fo/tqhriijik2p76j7kfp9jl/h?rlkey=4r1zvjpv4lh5h4fpt7lbpus8c&e=2&st=pmf7duk6&dl=1"
 ```
 
 ```
